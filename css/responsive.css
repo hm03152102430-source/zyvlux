@@ -1,0 +1,267 @@
+﻿/* Responsive CSS Document */
+
+/* 
+    Created on   : 10/09/2023.
+    Theme Name   : ZYVLUX - Creative Digital Marketing  HTML5 Template
+    Version      : 1.0.
+    Developed by : (sayfurrahaman265@gmail.com).
+   
+*/
+@media (min-width: 992px) {
+
+}
+/*(min-width: 992px)*/
+
+@media (min-width: 1200px) {
+    
+}
+/*(min-width: 1200px)*/
+@media (min-width: 1400px) {
+    .subscribe_one .right-content{margin-left: 60px;}
+}
+/*(min-width: 1400px)*/
+
+/*Grid xl Start*/
+@media (max-width: 1399.98px) {
+    .about-list li{padding: 14px 66px;}
+    .blog-one-content .card{width: 100%;}
+    .about-three .text-rapper{width: 80%;}
+    .design-service .left-service .design-01 .icon::before{display: none;}
+}
+
+/*(max-width: 1399px)*/
+/*Between Grid xl*/
+@media (min-width: 1200px) and (max-width: 1399px) {
+.h1,h1 {font-size: 98px; line-height:110px; /*done*/}
+.h2,h2{ font-size: 86px; line-height: 100px;}
+.h3,h3{ font-size: 50px; line-height: 62px;}
+.h4,h4 {font-size: 40px; line-height:52px;  /*done*/}
+.faq .h5,
+.h5,h5 {font-size: 30px; line-height: 38px;/*done*/}
+.h6,h6 {font-size: 20px; line-height: 32px; /*done*/}
+.navbar-nav .nav-item{padding-right: 20px;}
+.theme-main-menu .navbar .navbar-nav .nav-link{padding: 0 5px;font-size: 14px;}
+.theme-main-menu{padding: 25px 20px;}
+.left-wiget { margin-left: 110px;}
+.search-icon, .grid-icon {padding-right: 18px;}
+.blog-one-content .card .card-body{padding-left: 20px;}
+.our-team-one .h4::after{bottom: 27px;}
+.blog-two .blog-first ul li {padding-right: 20px;}
+.about-two .heading-shape .h4::before{bottom: -65%;}
+.blog-one-rapper .heading::after {bottom: 20%;}
+}
+/*(min-width: 1200px) and (max-width: 1399px)*/
+/*Grid lg Start*/
+@media (max-width: 1199.98px) {
+ p {line-height:25px;}
+.h1,h1 {font-size: 80px; line-height:90px; /*done*/}
+.h2,h2{ font-size: 50px; line-height: 62px;}
+.h3,h3{ font-size: 40px; line-height: 52px;}
+.faq .h5,
+.h4,h4 {font-size: 30px; line-height:42px;  /*done*/}
+.h5,h5 {font-size: 28px; line-height: 38px;/*done*/}
+.h6,h6 {font-size: 18px; line-height: 32px; /*done*/}
+.fs-18 {font-size: 15px;}
+.fs-20 {font-size: 18px;}
+.fs-22{font-size: 17px;}
+.fs-30{font-size:20px;}
+.about-three h4{font-size: 35px;line-height: 45px;}
+.about-three p{font-size: 20px;line-height: 35px;}
+.testimonial-two .right-content .opacity{line-height:38px;}
+.banner-rapper-two .left-banner .left-bottom-banner .color-p{font-size: 12px;}
+.pl-150{padding-left:0;}
+.banner-two .h1{font-size: 66px;line-height: 80px;}
+.banner-rapper-two .right-banner{max-width: 100%;}
+.navbar-nav .nav-item{padding-right: 10px;}
+.about-two .left-about{width: 100%;}
+.about-two .left-about .about-04{left: 0;bottom: 0;}
+.about-two .left-about .about-05{max-width: 100%;}
+.theme-main-menu .navbar .navbar-nav .nav-link{padding: 0 5px;font-size: 14px;}
+.theme-main-menu{padding: 25px 20px;}
+.left-wiget{margin-left: 40px;}
+.blog-two .blog-first ul li{padding-right: 20px;}
+.search-icon, .grid-icon {padding-right: 18px;}
+.banner-one .shape-01 {top: 22%;left: 6%;width: 8%;}
+.banner-one .shape-02{    bottom: 29.5%;left: 61px;}
+.about-two .about-list li{padding: 25px 25px;height: auto;}
+.about-two .left-about .about-05{bottom: 0;margin: 0;}
+.our-offer-three .offer-one{width: 100%;}
+.blog-page .left-blog .left-one h6{font-size: 38px;line-height: 50px;}
+.hover-box{width: 200px;left: 5%;}
+.work-history-two {top:0px; }
+.about-list li::after,
+.our-team .shape-11,
+.our-team .shape-10,
+.our-team-one .h4::after,
+.about-two .heading-shape .h4::before,
+.about-one .heading-shape .h4::before,
+.work-one::after,
+.testimonial-two .h4::after,
+.offer-rapper-one .heading_shape::before,
+.left-choose h4::after,
+.case_study_rapper .h4::after,
+.banner-one .shape-01,
+.banner-one .shape-02,
+.banner-rapper-two .left-banner .h1::after,
+.banner-rapper-two .left-banner span.color-one::after,
+.banner-rapper-two .left-banner .shape-13,
+.home_one_testimonial .slider-rapper .h4::after,
+.blog-one-rapper .heading::after,
+.home_one_testimonial .left-content .shape_003,
+.home_one_testimonial .left-content .shape_004,
+.about-two .shapes-02,
+.choose-two .right-choose .svg-two,
+.choose-two .right-choose .shapes-02,
+.banner-about .h2::after,
+.about-two .left-about .about-04,
+.about-one::before{display: none;}
+.about-list li {padding: 14px;}
+.offer-one{height: 370px; width: 100%;}
+.offer-one .offer-pic {height: 50px;}
+.offer-one .offer-pic img{height: 60px;}
+.progress_one span::before{right: -70%;}
+.progress_two span::before{right: -104%;}
+.progress_three span::before{right: -80%;}
+.blog-two .card .card-body {height:auto;padding: 0;}
+.about-four{top: 0;}
+#isotop-gallery-wrapper .isotop-item .item-one{margin: 15px;}
+.item-one .hover-box {left: 10%;width: 222px;}
+
+
+}
+
+/*Between Grid lg*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .blog-one-content .card .card-body {padding: 0 20px;}
+}
+/*Grid md Start*/
+@media (max-width: 991.98px) {
+    .h1,h1 {font-size: 80px; line-height:90px; /*done*/}
+    .h2,h2{ font-size: 50px; line-height: 62px;}
+    .h3,h3{ font-size: 40px; line-height: 52px;}
+    .h4,h4 {font-size: 30px; line-height:42px;  /*done*/}
+    .h5,h5 {font-size: 28px; line-height: 38px;/*done*/}
+    .h6,h6 {font-size: 18px; line-height: 32px; /*done*/}
+    .left-wiget {margin: 0;padding: 0;margin-left: 0;margin-right: 0!important;}
+    .pl-70{padding-left:0;}
+    .pr-110{padding-right:0;}
+    .pl-50 {padding-left:0px;}
+    .fs-24 {font-size: 16px;}
+    .lh-36 {line-height: 32px;}
+    .right-choose .about-02{position: relative;}
+    .right-choose .shape-07{left: 18%;}
+    .choose-one .right-choose {width:100%; margin-left:0;}
+    .choose-one .right-choose .about-02 {max-width: 100%;}
+    .blog-one-content .card .card-body h6 {font-size: 19px;}
+    .blog-one-content .card {max-width: 370px;}
+    .case-one::after{width: 100%;}
+    .theme-menu-two .navbar .navbar-nav .dropdown-toggle::after,
+    .theme-menu-two .navbar .navbar-nav .nav-link {color: #ffffff;}
+    .choose-two .right-choose .shapes-02{left: 90px;}
+    .case_study_rapper .grid{align-items: center; flex-direction: column; width: 100%;}
+    .case_study_two .grid .grid-item {max-width: 100%;}
+    .blog-two .card {max-width: 350px;}
+    .footer_item4 ul li{margin-bottom: 20px;}
+    .footer_item2 ul li a, .footer_item3 ul li a{font-size: 16px;}
+    .about-three .text-rapper {width: 100%;}
+    .my-contact .right-content{margin: 0;}
+    .my-form{padding: 50px 30px;}
+    .my-contact .right-content h6{font-size: 25px;line-height: 38px;}
+    .faq .faq-rapper{padding: 30px 10px;}
+    .page-error p a, .page-error span{font-size: 18px;line-height: 38px;}
+    .service-all .left-bottom-banner a img{margin-bottom: 20px;}
+    .choose-one-rapper .shape-05,
+    .testimonial-two .shape-09,
+    .banner-rapper-two .right-banner .shape-14,
+    .choose-one-rapper .shape-06,
+    .blog-one-rapper .shape-10,
+    .blog-one-rapper .shape-11,
+    .subscrpe-rapper .shape-05,
+    .subscrpe-rapper .shape-06,
+    .blog-one-rapper .shape_003,
+    .case_study_two .case_study_rapper .shape_003,
+    .home_one_testimonial .left-content .shape-08,
+    .home_one_testimonial .left-content .shape-09,
+    .offer-rapper-one .shape_001{display:none;}
+    #isotop-gallery-wrapper .isotop-item {width: 100%;}
+
+}
+/*Between Grid md*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/*(min-width: 768px) and (max-width: 991px)*/
+
+/*Grid sm Start*/
+@media (max-width: 767.98px) {
+    .h1,h1 {font-size: 50px; line-height:70px; /*done*/}
+    .h2,h2{ font-size: 40px; line-height: 52px;}
+    .h3,h3{ font-size: 30px; line-height: 42px;}
+    .h4,h4 {font-size: 28px; line-height:38px;  /*done*/}
+    .h5,h5 {font-size: 22px; line-height: 34px;/*done*/}
+    .h6,h6 {font-size: 18px; line-height: 32px; /*done*/}
+    .about-three p {font-size: 15px;line-height: 30px;}
+    .design-service-two .service-one {gap: 20px;}
+    .blog-page .left-blog .left-one ul li a{font-size: 13px;}
+    .blog-details .main_left .left-two .taq{flex-direction: column;}
+    .blog-details .main_left .left-two .res_show{flex-direction: column;}
+    .main_left .left-one .quotetion{padding:100px 0px 50px 0;}
+    .main_left .left-one .quotetion p::after{left: 17px;top: -63px;}
+    .blog-one-content .card .card-body {padding: 0 20px;}
+    .hover-box {width: 249px;left: 10%;}
+    .case-one::after{display: none;}
+    .blog-two .blog-first ul li,
+    .blog-two .blog-first ul li span{margin-left:0px;padding-right: 0;}
+}
+/*(max-width: 767px)*/
+
+/*Between Grid sm*/
+@media (min-width: 576px) and (max-width: 767px) {
+
+}
+/*(min-width: 576px) and (max-width: 767px)*/
+
+/*Extra Small breakpoints*/
+@media (max-width: 575.98px) {
+    .h1, h1 {font-size: 33px;line-height: 45px;}
+    .span-one{font-size:15px;}
+    .h3, h3 {font-size: 22px;line-height: 34px;}
+    .h4, h4 {font-size: 27px;line-height: 38px;}
+    .lh-36 {line-height: 28px;}
+    .fs-17{font-size:14px;}
+    .fs-20{font-size:14px;}
+    p {font-size:15px;line-height:28px;}
+    .banner-two .h1{font-size: 35px;line-height: 50px;}
+    .case-details .left-service .role{font-size: 18px;line-height: 20px;}
+    .case-details .left-service .design-01 p{font-size: 14px;line-height: 20px;}
+    .case-details .left-service .go_link, .case-details .left-service .parg{font-size: 14px;line-height: 26px;}
+    .subscribe_one .right-content{padding:40px 0px;}
+    .slick-dots li{left:16%;}
+    .span-two{font-size: 14px;}
+    #testimonial_slider_one .right-content p{font-size: 15px;line-height: 28px;}
+    .accordion-body p{font-size: 13px;line-height: 28px;}
+    .accordion-button:not(.collapsed),
+    .accordion-button.collapsed{font-size: 13px;}
+    .our-video .play-button{width: 70px;height: 70px;line-height: 70px;}
+    .left-content .subscribe input{padding-left:5px;}
+    .left-content .subscribe .subscribe-button{width: 130px;}
+    .left-content .subscribe .email-01{display: none;}
+    .about-three h4 {font-size: 27px;line-height: 40px;}
+    .about-three p {font-size: 12px;line-height: 23px;}
+    .my-contact .left-content p{font-size: 16px;line-height: 28px;}
+    .my-contact .right-content h6{font-size: 20px;line-height: 30px;}
+    .my-contact .right-content p{font-size: 15px;line-height: 28px;}
+    .my-contact .right-content p i{font-size: 18px;}
+    .my-contact .right-content{padding: 47px 0;}
+    .faq .faq-rapper{padding: 30px 0;}
+    .design-service-two .service-one {gap: 10px;}
+    .blog-page .left-blog .left-one h6 {font-size: 19px;line-height: 30px;}
+    .blog-page .left-blog .left-one .card-body{padding: 0 10px;}
+    .blog-page .left-blog .left-one p{line-height: 28px;}
+    .blog-page .right-blog,
+    .blog-details .main_left{padding: 50px 10px;}
+    .blog-one-content .card .card-body h6 {font-size: 17px;}
+    .blog-page .left-blog .pagination a{width: 50px;line-height: 50px;}
+    .main_left .left-one .quotetion p{padding: 0 10px;}
+}
+/*(max-width: 575px)*/

@@ -1,0 +1,75 @@
+body{
+    background: #0D0C0C;
+    color:var(--prime-one);  
+}
+.theme-menu-two{background:var(--text-color); }
+.theme-main-menu .navbar .navbar-nav .nav-link{color:var(--prime-one);}
+.theme-menu-two.sticky-menu.fixed{background:var(--text-color);}
+.banner-two{background: #0D0C0C;color:var(--prime-one); }
+.banner-rapper-two .h1,
+.banner-rapper-two .left-banner .left-bottom-banner .normal-p,
+.choose-two .left-choose .h4,
+.banner-rapper-two span.color-one{color:var(--prime-one);}
+.progress-bar{background:var(--prime-three )!important;}
+.choose-two {
+    background: #1B1816;
+    z-index: -1;
+    position: relative;
+}
+.blog-two{background: #1B1816;}
+.about-two{background: #1B1816;z-index:-1;}
+.choose-two .right-choose .shapes-02 {
+    height: 313px;
+    bottom: -147px;
+    left: 30.2%;
+}
+.choose-two .right-choose .svg-two {
+    left: 103%;
+}
+.choose-one-rapper .shape_003 {
+    width: 51px;
+    height: 51px;
+    position: absolute;
+    border-radius: 50px;
+    left: -193px;
+    top: 19%;
+    background:var(--prime-two); 
+    z-index: 9999;
+}
+.choose-one-rapper .shape-06 {
+    bottom: -460px;
+}
+.choose-two .shape-05 {
+    right: 4%;
+    top: 15%;
+}
+.partner-two,
+.our-offer-one{background: #0D0C0C;}
+.offer-one .h6 a,
+.our-offer-one .h4{color:var(--prime-one);}
+.our-team,
+.offer-one{background: #181818;}
+.offer-one p{opacity:.7;}
+.about-two .para-text p,
+.about-two .heading-shape .h4{color:var(--prime-one);}
+.about-two .about-list li{background: #2B2623;}
+.testimonial-two .left-content .h4,
+.testimonial-two .right-content .h6,
+.our-team .h4,
+.subscribe_one .h4,
+.blog-two .h4,
+.blog-two .blog-first ul li a,
+.blog-one-content .card .card-body h6 a,
+.case_study_two .case_study_rapper .h4{color:var(--prime-one);}
+.blog-one-content .blog-first .card{
+    border-radius: 5px;
+    background: #0D0C0C;
+    box-shadow: none;
+}
+.blog-one-rapper .heading::after{z-index: 1;bottom: 26%;}
+.testimonial-two .shape-09 {
+    bottom: 0;
+    left: 30%;
+}
+.case_study_two .grid .grid-item img{mix-blend-mode: luminosity; -webkit-mix-blend-mode: luminosity}
+
